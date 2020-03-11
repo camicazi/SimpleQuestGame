@@ -3,9 +3,11 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 /Simple Quest game/Temp/
-/[Ll]ibrary/
+/Simple Quest game/Assets/ProCore/
+/Simple Quest game/Assets/Oculus/
+/Simple Quest game/[Ll]ibrary/
+/Simple Quest game/[Oo]bj/[Dd]ebug/
 /[Tt]emp/
-/[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
