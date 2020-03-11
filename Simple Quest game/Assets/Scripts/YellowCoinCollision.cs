@@ -18,6 +18,7 @@ public class YellowCoinCollision: MonoBehaviour
             var wordOffset = transform.rotation * localOffset;
             var position = transform.position + wordOffset;
             Instantiate(YellowCoin, position, transform.rotation);
+            FindObjectOfType<ScoreCounter>().Score++;
             Destroy(this.gameObject);
         }
         else
