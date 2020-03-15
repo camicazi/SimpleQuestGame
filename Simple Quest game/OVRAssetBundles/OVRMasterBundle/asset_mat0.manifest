@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1817482086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6456e05fe71f76ab8f75d09d0cba837
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/GroundMat.mat
+- Assets/Materials/Coin1Map.mat
+Dependencies: []
